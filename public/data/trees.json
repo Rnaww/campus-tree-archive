@@ -1,0 +1,3072 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "file": "All_Tree_Params.csv",
+    "sha256": "6f75b3804cb1e33792a48d1699a0519fcdd7aebd7b03089d242e75de7a6ac420",
+    "origin": "Downloads/All_Tree_Params.csv",
+    "coordinateSystem": "扫描坐标，未提供地理坐标系",
+    "sampling": "0.025m/0.05m体素代表点与确定性空间抽样，保留坐标极值"
+  },
+  "trees": [
+    {
+      "id": "1-001",
+      "group": "1",
+      "treeId": "1-001_Tree_0001",
+      "sourceFile": "1-001",
+      "x": -248.42,
+      "y": 123.3,
+      "height": 8.71,
+      "crownWidth": 6.37,
+      "crownLength": 6.91,
+      "dbh": 0.417,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.8,
+      "points": 332780,
+      "offset": [
+        -248.55349731445312,
+        123.5155029296875,
+        7.78000020980835
+      ],
+      "bounds": [
+        [
+          -3.240509033203125,
+          -3.48150634765625,
+          0.0
+        ],
+        [
+          3.2404937744140625,
+          3.4814987182617188,
+          9.017999649047852
+        ]
+      ],
+      "thumbnail": "thumbnails/1-001.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-001-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-001-high.ply",
+          "points": 199995,
+          "bytes": 3000161
+        }
+      }
+    },
+    {
+      "id": "1-002",
+      "group": "1",
+      "treeId": "1-002_Tree_0001",
+      "sourceFile": "1-002",
+      "x": -245.78,
+      "y": 139.99,
+      "height": 15.12,
+      "crownWidth": 19.84,
+      "crownLength": 12.92,
+      "dbh": 0.793,
+      "dbhReliable": true,
+      "trunkTopHeight": 2.2,
+      "points": 380043,
+      "offset": [
+        -244.6090087890625,
+        140.74037170410156,
+        11.038999557495117
+      ],
+      "bounds": [
+        [
+          -10.539993286132812,
+          -11.18463134765625,
+          0.0
+        ],
+        [
+          10.540008544921875,
+          11.18463134765625,
+          15.633882522583008
+        ]
+      ],
+      "thumbnail": "thumbnails/1-002.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-002-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/1-002-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-003",
+      "group": "1",
+      "treeId": "1-003_Tree_0001",
+      "sourceFile": "1-003",
+      "x": -241.91,
+      "y": 122.34,
+      "height": 6.96,
+      "crownWidth": 7.22,
+      "crownLength": 5.16,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.8,
+      "points": 351095,
+      "offset": [
+        -242.1595001220703,
+        122.19450378417969,
+        7.938000202178955
+      ],
+      "bounds": [
+        [
+          -3.8175048828125,
+          -3.6925048828125,
+          0.0
+        ],
+        [
+          3.8175048828125,
+          3.6924972534179688,
+          7.355187892913818
+        ]
+      ],
+      "thumbnail": "thumbnails/1-003.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-003-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-003-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-004",
+      "group": "1",
+      "treeId": "1-004_Tree_0001",
+      "sourceFile": "1-004",
+      "x": -235.03,
+      "y": 123.62,
+      "height": 7.76,
+      "crownWidth": 5.43,
+      "crownLength": 5.36,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 2.4,
+      "points": 176926,
+      "offset": [
+        -236.218994140625,
+        123.86100006103516,
+        8.668999671936035
+      ],
+      "bounds": [
+        [
+          -3.4600067138671875,
+          -3.0609970092773438,
+          0.0
+        ],
+        [
+          3.459991455078125,
+          3.0609970092773438,
+          7.982611656188965
+        ]
+      ],
+      "thumbnail": "thumbnails/1-004.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-004-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-004-high.ply",
+          "points": 176926,
+          "bytes": 2654126
+        }
+      }
+    },
+    {
+      "id": "1-005",
+      "group": "1",
+      "treeId": "1-005_Tree_0001",
+      "sourceFile": "1-005",
+      "x": -229.31,
+      "y": 117.71,
+      "height": 7.09,
+      "crownWidth": 7.03,
+      "crownLength": 5.29,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.8,
+      "points": 285343,
+      "offset": [
+        -229.59022521972656,
+        117.08753967285156,
+        7.89300012588501
+      ],
+      "bounds": [
+        [
+          -3.21722412109375,
+          -3.9108200073242188,
+          0.0
+        ],
+        [
+          3.21722412109375,
+          3.9108200073242188,
+          7.516024112701416
+        ]
+      ],
+      "thumbnail": "thumbnails/1-005.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-005-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-005-high.ply",
+          "points": 199994,
+          "bytes": 3000146
+        }
+      }
+    },
+    {
+      "id": "1-006",
+      "group": "1",
+      "treeId": "1-006_Tree_0001",
+      "sourceFile": "1-006",
+      "x": -222.53,
+      "y": 110.85,
+      "height": 7.33,
+      "crownWidth": 7.5,
+      "crownLength": 5.63,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.7,
+      "points": 388285,
+      "offset": [
+        -222.51849365234375,
+        111.39024353027344,
+        6.678999900817871
+      ],
+      "bounds": [
+        [
+          -4.1165008544921875,
+          -3.6862411499023438,
+          0.0
+        ],
+        [
+          4.1165008544921875,
+          3.6862335205078125,
+          8.295000076293945
+        ]
+      ],
+      "thumbnail": "thumbnails/1-006.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-006-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-006-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-007",
+      "group": "1",
+      "treeId": "1-007_Tree_0001",
+      "sourceFile": "1-007",
+      "x": -211.79,
+      "y": 103.0,
+      "height": 7.97,
+      "crownWidth": 6.92,
+      "crownLength": 7.07,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 425761,
+      "offset": [
+        -211.53720092773438,
+        102.94731140136719,
+        6.640999794006348
+      ],
+      "bounds": [
+        [
+          -3.93719482421875,
+          -3.50531005859375,
+          0.0
+        ],
+        [
+          3.93719482421875,
+          3.50531005859375,
+          8.501999855041504
+        ]
+      ],
+      "thumbnail": "thumbnails/1-007.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-007-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/1-007-high.ply",
+          "points": 199997,
+          "bytes": 3000191
+        }
+      }
+    },
+    {
+      "id": "1-008",
+      "group": "1",
+      "treeId": "1-008_Tree_0001",
+      "sourceFile": "1-008",
+      "x": -213.37,
+      "y": 113.51,
+      "height": 8.87,
+      "crownWidth": 8.68,
+      "crownLength": 7.97,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 821050,
+      "offset": [
+        -213.11367797851562,
+        113.17500305175781,
+        8.878000259399414
+      ],
+      "bounds": [
+        [
+          -4.3106689453125,
+          -4.575004577636719,
+          0.0
+        ],
+        [
+          4.3106842041015625,
+          4.5749969482421875,
+          9.326709747314453
+        ]
+      ],
+      "thumbnail": "thumbnails/1-008.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-008-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-008-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-009",
+      "group": "1",
+      "treeId": "1-009_Tree_0001",
+      "sourceFile": "1-009",
+      "x": -210.33,
+      "y": 122.56,
+      "height": 10.5,
+      "crownWidth": 13.93,
+      "crownLength": 10.0,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.5,
+      "points": 1646486,
+      "offset": [
+        -210.3175048828125,
+        122.69062805175781,
+        12.00100040435791
+      ],
+      "bounds": [
+        [
+          -8.623489379882812,
+          -6.8833770751953125,
+          0.0
+        ],
+        [
+          8.623504638671875,
+          6.8833770751953125,
+          10.96907901763916
+        ]
+      ],
+      "thumbnail": "thumbnails/1-009.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-009-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/1-009-high.ply",
+          "points": 199999,
+          "bytes": 3000221
+        }
+      }
+    },
+    {
+      "id": "1-010",
+      "group": "1",
+      "treeId": "1-010_Tree_0001",
+      "sourceFile": "1-010",
+      "x": -204.3,
+      "y": 105.24,
+      "height": 7.44,
+      "crownWidth": 7.2,
+      "crownLength": 6.14,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.3,
+      "points": 329057,
+      "offset": [
+        -204.47911071777344,
+        105.13922882080078,
+        7.382999897003174
+      ],
+      "bounds": [
+        [
+          -3.8701171875,
+          -3.4507675170898438,
+          0.0
+        ],
+        [
+          3.8701171875,
+          3.4507675170898438,
+          8.018810272216797
+        ]
+      ],
+      "thumbnail": "thumbnails/1-010.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-010-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-010-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-011",
+      "group": "1",
+      "treeId": "1-011_Tree_0001",
+      "sourceFile": "1-011",
+      "x": -195.04,
+      "y": 101.06,
+      "height": 8.3,
+      "crownWidth": 5.25,
+      "crownLength": 7.3,
+      "dbh": 0.21,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.0,
+      "points": 252172,
+      "offset": [
+        -194.90061950683594,
+        100.89399719238281,
+        7.044000148773193
+      ],
+      "bounds": [
+        [
+          -2.6286163330078125,
+          -2.6449966430664062,
+          0.0
+        ],
+        [
+          2.6286163330078125,
+          2.6450042724609375,
+          8.716999053955078
+        ]
+      ],
+      "thumbnail": "thumbnails/1-011.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-011-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-011-high.ply",
+          "points": 197193,
+          "bytes": 2958131
+        }
+      }
+    },
+    {
+      "id": "1-012",
+      "group": "1",
+      "treeId": "1-012_Tree_0001",
+      "sourceFile": "1-012",
+      "x": -194.31,
+      "y": 95.62,
+      "height": 6.34,
+      "crownWidth": 6.56,
+      "crownLength": 5.74,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.6,
+      "points": 398587,
+      "offset": [
+        -192.93045043945312,
+        95.85020446777344,
+        5.833000183105469
+      ],
+      "bounds": [
+        [
+          -4.2595672607421875,
+          -3.0262069702148438,
+          0.0
+        ],
+        [
+          4.259552001953125,
+          3.0261993408203125,
+          6.937000274658203
+        ]
+      ],
+      "thumbnail": "thumbnails/1-012.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-012-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-012-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-013",
+      "group": "1",
+      "treeId": "1-013_Tree_0001",
+      "sourceFile": "1-013",
+      "x": -187.22,
+      "y": 100.37,
+      "height": 6.04,
+      "crownWidth": 6.25,
+      "crownLength": 4.94,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.1,
+      "points": 499571,
+      "offset": [
+        -187.51513671875,
+        100.11900329589844,
+        7.480999946594238
+      ],
+      "bounds": [
+        [
+          -3.1811370849609375,
+          -3.4029998779296875,
+          0.0
+        ],
+        [
+          3.1811370849609375,
+          3.4029998779296875,
+          6.914972305297852
+        ]
+      ],
+      "thumbnail": "thumbnails/1-013.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-013-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-013-high.ply",
+          "points": 199998,
+          "bytes": 3000206
+        }
+      }
+    },
+    {
+      "id": "1-014",
+      "group": "1",
+      "treeId": "1-014_Tree_0001",
+      "sourceFile": "1-014",
+      "x": -168.22,
+      "y": 89.16,
+      "height": 7.5,
+      "crownWidth": 8.83,
+      "crownLength": 6.6,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 544906,
+      "offset": [
+        -167.85537719726562,
+        88.47799682617188,
+        6.611999988555908
+      ],
+      "bounds": [
+        [
+          -4.64837646484375,
+          -4.222999572753906,
+          0.0
+        ],
+        [
+          4.64837646484375,
+          4.222999572753906,
+          7.870999813079834
+        ]
+      ],
+      "thumbnail": "thumbnails/1-014.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-014-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-014-high.ply",
+          "points": 199998,
+          "bytes": 3000206
+        }
+      }
+    },
+    {
+      "id": "1-015",
+      "group": "1",
+      "treeId": "1-015_Tree_0001",
+      "sourceFile": "1-015",
+      "x": -166.11,
+      "y": 81.72,
+      "height": 7.45,
+      "crownWidth": 8.35,
+      "crownLength": 2.95,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 4.5,
+      "points": 387276,
+      "offset": [
+        -166.5847625732422,
+        81.55360412597656,
+        5.480999946594238
+      ],
+      "bounds": [
+        [
+          -4.5897674560546875,
+          -4.545600891113281,
+          0.0
+        ],
+        [
+          4.5897674560546875,
+          4.54559326171875,
+          8.12297248840332
+        ]
+      ],
+      "thumbnail": "thumbnails/1-015.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-015-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-015-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-016",
+      "group": "1",
+      "treeId": "1-016_Tree_0001",
+      "sourceFile": "1-016",
+      "x": -160.2,
+      "y": 81.66,
+      "height": 6.01,
+      "crownWidth": 5.9,
+      "crownLength": 5.31,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.7,
+      "points": 136686,
+      "offset": [
+        -159.68716430664062,
+        81.77449798583984,
+        6.052000045776367
+      ],
+      "bounds": [
+        [
+          -3.2871856689453125,
+          -2.8974990844726562,
+          0.0
+        ],
+        [
+          3.28717041015625,
+          2.8974990844726562,
+          6.345999717712402
+        ]
+      ],
+      "thumbnail": "thumbnails/1-016.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-016-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/1-016-high.ply",
+          "points": 136686,
+          "bytes": 2050526
+        }
+      }
+    },
+    {
+      "id": "1-017",
+      "group": "1",
+      "treeId": "1-017_Tree_0001",
+      "sourceFile": "1-017",
+      "x": -154.62,
+      "y": 78.09,
+      "height": 7.22,
+      "crownWidth": 8.51,
+      "crownLength": 6.62,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.6,
+      "points": 413249,
+      "offset": [
+        -154.77151489257812,
+        78.06002807617188,
+        5.939000129699707
+      ],
+      "bounds": [
+        [
+          -4.950531005859375,
+          -4.6530303955078125,
+          0.0
+        ],
+        [
+          4.9505157470703125,
+          4.653038024902344,
+          7.545000076293945
+        ]
+      ],
+      "thumbnail": "thumbnails/1-017.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-017-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-017-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-018",
+      "group": "1",
+      "treeId": "1-018_Tree_0001",
+      "sourceFile": "1-018",
+      "x": -147.87,
+      "y": 79.88,
+      "height": 6.74,
+      "crownWidth": 6.59,
+      "crownLength": 5.64,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.1,
+      "points": 314737,
+      "offset": [
+        -147.724853515625,
+        79.04550170898438,
+        6.360000133514404
+      ],
+      "bounds": [
+        [
+          -3.713836669921875,
+          -3.5405044555664062,
+          0.0
+        ],
+        [
+          3.7138519287109375,
+          3.540496826171875,
+          7.032999515533447
+        ]
+      ],
+      "thumbnail": "thumbnails/1-018.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-018-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-018-high.ply",
+          "points": 199997,
+          "bytes": 3000191
+        }
+      }
+    },
+    {
+      "id": "1-019",
+      "group": "1",
+      "treeId": "1-019_Tree_0001",
+      "sourceFile": "1-019",
+      "x": -138.04,
+      "y": 69.47,
+      "height": 8.14,
+      "crownWidth": 8.46,
+      "crownLength": 6.54,
+      "dbh": 0.287,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.6,
+      "points": 419135,
+      "offset": [
+        -137.9318084716797,
+        69.23849487304688,
+        5.3379998207092285
+      ],
+      "bounds": [
+        [
+          -4.4698028564453125,
+          -4.29449462890625,
+          0.0
+        ],
+        [
+          4.4698028564453125,
+          4.294502258300781,
+          8.538999557495117
+        ]
+      ],
+      "thumbnail": "thumbnails/1-019.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-019-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-019-high.ply",
+          "points": 199995,
+          "bytes": 3000161
+        }
+      }
+    },
+    {
+      "id": "1-020",
+      "group": "1",
+      "treeId": "1-020_Tree_0001",
+      "sourceFile": "1-020",
+      "x": -132.91,
+      "y": 73.84,
+      "height": 8.35,
+      "crownWidth": 7.22,
+      "crownLength": 6.25,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 2.1,
+      "points": 504955,
+      "offset": [
+        -132.74264526367188,
+        72.70050048828125,
+        5.848999977111816
+      ],
+      "bounds": [
+        [
+          -3.7416229248046875,
+          -4.029502868652344,
+          0.0
+        ],
+        [
+          3.74163818359375,
+          4.029502868652344,
+          9.166969299316406
+        ]
+      ],
+      "thumbnail": "thumbnails/1-020.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-020-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-020-high.ply",
+          "points": 199995,
+          "bytes": 3000161
+        }
+      }
+    },
+    {
+      "id": "1-021",
+      "group": "1",
+      "treeId": "1-021_Tree_0001",
+      "sourceFile": "1-021",
+      "x": -130.03,
+      "y": 66.39,
+      "height": 6.61,
+      "crownWidth": 4.83,
+      "crownLength": 5.51,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.1,
+      "points": 98086,
+      "offset": [
+        -130.19491577148438,
+        66.31546783447266,
+        5.370999813079834
+      ],
+      "bounds": [
+        [
+          -3.117919921875,
+          -2.578533172607422,
+          0.0
+        ],
+        [
+          3.1179122924804688,
+          2.5785293579101562,
+          6.784154415130615
+        ]
+      ],
+      "thumbnail": "thumbnails/1-021.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-021-lite.ply",
+          "points": 30746,
+          "bytes": 461425
+        },
+        "high": {
+          "path": "models/1-021-high.ply",
+          "points": 98086,
+          "bytes": 1471525
+        }
+      }
+    },
+    {
+      "id": "1-022",
+      "group": "1",
+      "treeId": "1-022_Tree_0001",
+      "sourceFile": "1-022",
+      "x": -122.25,
+      "y": 66.94,
+      "height": 13.45,
+      "crownWidth": 16.53,
+      "crownLength": 12.95,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.5,
+      "points": 1703975,
+      "offset": [
+        -122.77702331542969,
+        65.99609375,
+        5.631999969482422
+      ],
+      "bounds": [
+        [
+          -7.9730224609375,
+          -8.468910217285156,
+          0.0
+        ],
+        [
+          7.9730224609375,
+          8.468902587890625,
+          14.935945510864258
+        ]
+      ],
+      "thumbnail": "thumbnails/1-022.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-022-lite.ply",
+          "points": 50000,
+          "bytes": 750235
+        },
+        "high": {
+          "path": "models/1-022-high.ply",
+          "points": 199999,
+          "bytes": 3000221
+        }
+      }
+    },
+    {
+      "id": "1-023",
+      "group": "1",
+      "treeId": "1-023_Tree_0001",
+      "sourceFile": "1-023",
+      "x": -114.12,
+      "y": 78.56,
+      "height": 8.04,
+      "crownWidth": 7.53,
+      "crownLength": 6.84,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 127421,
+      "offset": [
+        -113.77656555175781,
+        78.31651306152344,
+        8.28600025177002
+      ],
+      "bounds": [
+        [
+          -3.5435638427734375,
+          -4.649482727050781,
+          0.0
+        ],
+        [
+          3.5435638427734375,
+          4.6494903564453125,
+          8.548365592956543
+        ]
+      ],
+      "thumbnail": "thumbnails/1-023.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-023-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-023-high.ply",
+          "points": 127421,
+          "bytes": 1911551
+        }
+      }
+    },
+    {
+      "id": "1-024",
+      "group": "1",
+      "treeId": "1-024_Tree_0001",
+      "sourceFile": "1-024",
+      "x": -154.8,
+      "y": 96.51,
+      "height": 7.67,
+      "crownWidth": 9.32,
+      "crownLength": 5.97,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.7,
+      "points": 347517,
+      "offset": [
+        -154.40219116210938,
+        96.82687377929688,
+        9.404000282287598
+      ],
+      "bounds": [
+        [
+          -5.1522064208984375,
+          -4.841117858886719,
+          0.0
+        ],
+        [
+          5.152191162109375,
+          4.84112548828125,
+          8.61464786529541
+        ]
+      ],
+      "thumbnail": "thumbnails/1-024.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-024-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/1-024-high.ply",
+          "points": 199997,
+          "bytes": 3000191
+        }
+      }
+    },
+    {
+      "id": "1-025",
+      "group": "1",
+      "treeId": "1-025_Tree_0001",
+      "sourceFile": "1-025",
+      "x": -149.42,
+      "y": 94.37,
+      "height": 7.62,
+      "crownWidth": 6.42,
+      "crownLength": 5.92,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.7,
+      "points": 172144,
+      "offset": [
+        -149.5076904296875,
+        94.04444885253906,
+        9.281000137329102
+      ],
+      "bounds": [
+        [
+          -3.4207763671875,
+          -3.6315460205078125,
+          0.0
+        ],
+        [
+          3.4207763671875,
+          3.6315536499023438,
+          8.477102279663086
+        ]
+      ],
+      "thumbnail": "thumbnails/1-025.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-025-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-025-high.ply",
+          "points": 172144,
+          "bytes": 2582396
+        }
+      }
+    },
+    {
+      "id": "1-026",
+      "group": "1",
+      "treeId": "1-026_Tree_0001",
+      "sourceFile": "1-026",
+      "x": -123.23,
+      "y": 79.32,
+      "height": 9.2,
+      "crownWidth": 10.23,
+      "crownLength": 8.7,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.5,
+      "points": 486712,
+      "offset": [
+        -123.12591552734375,
+        79.89800262451172,
+        8.48799991607666
+      ],
+      "bounds": [
+        [
+          -4.503913879394531,
+          -6.76300048828125,
+          0.0
+        ],
+        [
+          4.503913879394531,
+          6.76300048828125,
+          10.152209281921387
+        ]
+      ],
+      "thumbnail": "thumbnails/1-026.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-026-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-026-high.ply",
+          "points": 199999,
+          "bytes": 3000221
+        }
+      }
+    },
+    {
+      "id": "1-027",
+      "group": "1",
+      "treeId": "1-027_Tree_0001",
+      "sourceFile": "1-027",
+      "x": -127.76,
+      "y": 83.18,
+      "height": 8.17,
+      "crownWidth": 8.3,
+      "crownLength": 7.27,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 249324,
+      "offset": [
+        -127.34305572509766,
+        83.49125671386719,
+        8.694000244140625
+      ],
+      "bounds": [
+        [
+          -4.554573059082031,
+          -4.488739013671875,
+          0.0
+        ],
+        [
+          4.554573059082031,
+          4.488746643066406,
+          9.137189865112305
+        ]
+      ],
+      "thumbnail": "thumbnails/1-027.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-027-lite.ply",
+          "points": 49999,
+          "bytes": 750220
+        },
+        "high": {
+          "path": "models/1-027-high.ply",
+          "points": 197673,
+          "bytes": 2965331
+        }
+      }
+    },
+    {
+      "id": "1-028",
+      "group": "1",
+      "treeId": "1-028_Tree_0001",
+      "sourceFile": "1-028",
+      "x": -133.1,
+      "y": 85.53,
+      "height": 7.88,
+      "crownWidth": 7.62,
+      "crownLength": 6.88,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.0,
+      "points": 251867,
+      "offset": [
+        -132.72959899902344,
+        85.99000549316406,
+        8.845000267028809
+      ],
+      "bounds": [
+        [
+          -3.8975982666015625,
+          -4.006004333496094,
+          0.0
+        ],
+        [
+          3.8975982666015625,
+          4.0059967041015625,
+          8.810364723205566
+        ]
+      ],
+      "thumbnail": "thumbnails/1-028.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-028-lite.ply",
+          "points": 50000,
+          "bytes": 750235
+        },
+        "high": {
+          "path": "models/1-028-high.ply",
+          "points": 197101,
+          "bytes": 2956751
+        }
+      }
+    },
+    {
+      "id": "1-029",
+      "group": "1",
+      "treeId": "1-029_Tree_0001",
+      "sourceFile": "1-029",
+      "x": -118.5,
+      "y": 77.83,
+      "height": 6.9,
+      "crownWidth": 8.89,
+      "crownLength": 5.7,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 410820,
+      "offset": [
+        -118.0626449584961,
+        78.8010025024414,
+        8.416999816894531
+      ],
+      "bounds": [
+        [
+          -4.1626434326171875,
+          -5.999000549316406,
+          0.0
+        ],
+        [
+          4.1626434326171875,
+          5.999000549316406,
+          8.099164962768555
+        ]
+      ],
+      "thumbnail": "thumbnails/1-029.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-029-lite.ply",
+          "points": 49995,
+          "bytes": 750160
+        },
+        "high": {
+          "path": "models/1-029-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-030",
+      "group": "1",
+      "treeId": "1-030_Tree_0001",
+      "sourceFile": "1-030",
+      "x": -140.21,
+      "y": 90.46,
+      "height": 8.39,
+      "crownWidth": 8.99,
+      "crownLength": 7.39,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.0,
+      "points": 382933,
+      "offset": [
+        -140.1855010986328,
+        91.13668823242188,
+        8.991999626159668
+      ],
+      "bounds": [
+        [
+          -4.3404998779296875,
+          -4.8623046875,
+          0.0
+        ],
+        [
+          4.3404998779296875,
+          4.862312316894531,
+          9.59253978729248
+        ]
+      ],
+      "thumbnail": "thumbnails/1-030.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-030-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-030-high.ply",
+          "points": 199996,
+          "bytes": 3000176
+        }
+      }
+    },
+    {
+      "id": "1-031",
+      "group": "1",
+      "treeId": "1-031_Tree_0001",
+      "sourceFile": "1-031",
+      "x": -145.36,
+      "y": 92.75,
+      "height": 8.33,
+      "crownWidth": 6.18,
+      "crownLength": 6.73,
+      "dbh": 0.291,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.6,
+      "points": 123070,
+      "offset": [
+        -145.18527221679688,
+        92.989990234375,
+        9.152999877929688
+      ],
+      "bounds": [
+        [
+          -2.83526611328125,
+          -3.7420120239257812,
+          0.0
+        ],
+        [
+          2.83526611328125,
+          3.7420120239257812,
+          8.889175415039062
+        ]
+      ],
+      "thumbnail": "thumbnails/1-031.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-031-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/1-031-high.ply",
+          "points": 123070,
+          "bytes": 1846286
+        }
+      }
+    },
+    {
+      "id": "1-032",
+      "group": "1",
+      "treeId": "1-032_Tree_0001",
+      "sourceFile": "1-032",
+      "x": -159.5,
+      "y": 98.63,
+      "height": 7.53,
+      "crownWidth": 6.88,
+      "crownLength": 6.83,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.7,
+      "points": 161762,
+      "offset": [
+        -159.37991333007812,
+        99.17692565917969,
+        9.418000221252441
+      ],
+      "bounds": [
+        [
+          -3.7039337158203125,
+          -3.61907958984375,
+          0.0
+        ],
+        [
+          3.70391845703125,
+          3.6190719604492188,
+          8.171067237854004
+        ]
+      ],
+      "thumbnail": "thumbnails/1-032.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-032-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/1-032-high.ply",
+          "points": 161762,
+          "bytes": 2426666
+        }
+      }
+    },
+    {
+      "id": "1-033",
+      "group": "1",
+      "treeId": "1-033_Tree_0001",
+      "sourceFile": "1-033",
+      "x": -163.49,
+      "y": 101.32,
+      "height": 6.31,
+      "crownWidth": 7.49,
+      "crownLength": 5.21,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.1,
+      "points": 123787,
+      "offset": [
+        -163.06443786621094,
+        101.35686492919922,
+        11.354999542236328
+      ],
+      "bounds": [
+        [
+          -3.5944366455078125,
+          -4.6251373291015625,
+          0.0
+        ],
+        [
+          3.5944366455078125,
+          4.6251373291015625,
+          6.61627197265625
+        ]
+      ],
+      "thumbnail": "thumbnails/1-033.webp",
+      "models": {
+        "lite": {
+          "path": "models/1-033-lite.ply",
+          "points": 44643,
+          "bytes": 669880
+        },
+        "high": {
+          "path": "models/1-033-high.ply",
+          "points": 123787,
+          "bytes": 1857041
+        }
+      }
+    },
+    {
+      "id": "2-001",
+      "group": "2",
+      "treeId": "2-001_Tree_0001",
+      "sourceFile": "2-001",
+      "x": -49.39,
+      "y": 51.87,
+      "height": 4.39,
+      "crownWidth": 3.79,
+      "crownLength": 3.69,
+      "dbh": 0.386,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.7,
+      "points": 86921,
+      "offset": [
+        -49.4918212890625,
+        51.272605895996094,
+        2.4517669677734375
+      ],
+      "bounds": [
+        [
+          -2.0325927734375,
+          -1.9573745727539062,
+          0.0
+        ],
+        [
+          2.0325927734375,
+          1.9573745727539062,
+          4.615234375
+        ]
+      ],
+      "thumbnail": "thumbnails/2-001.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-001-lite.ply",
+          "points": 16565,
+          "bytes": 248710
+        },
+        "high": {
+          "path": "models/2-001-high.ply",
+          "points": 86921,
+          "bytes": 1304050
+        }
+      }
+    },
+    {
+      "id": "2-002",
+      "group": "2",
+      "treeId": "2-002_Tree_0001",
+      "sourceFile": "2-002",
+      "x": -30.18,
+      "y": 30.84,
+      "height": 5.9,
+      "crownWidth": 4.28,
+      "crownLength": 4.3,
+      "dbh": 0.144,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.6,
+      "points": 96407,
+      "offset": [
+        -30.163467407226562,
+        30.783111572265625,
+        1.6863555908203125
+      ],
+      "bounds": [
+        [
+          -2.1385955810546875,
+          -2.2151641845703125,
+          0.0
+        ],
+        [
+          2.1385955810546875,
+          2.2151641845703125,
+          6.1292572021484375
+        ]
+      ],
+      "thumbnail": "thumbnails/2-002.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-002-lite.ply",
+          "points": 25102,
+          "bytes": 376765
+        },
+        "high": {
+          "path": "models/2-002-high.ply",
+          "points": 96407,
+          "bytes": 1446340
+        }
+      }
+    },
+    {
+      "id": "2-003",
+      "group": "2",
+      "treeId": "2-003_Tree_0001",
+      "sourceFile": "2-003",
+      "x": -21.27,
+      "y": 20.64,
+      "height": 6.4,
+      "crownWidth": 3.46,
+      "crownLength": 4.7,
+      "dbh": 0.118,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.7,
+      "points": 135904,
+      "offset": [
+        -21.2708740234375,
+        20.4549560546875,
+        0.9935073852539062
+      ],
+      "bounds": [
+        [
+          -1.89227294921875,
+          -1.7714080810546875,
+          0.0
+        ],
+        [
+          1.89227294921875,
+          1.7714080810546875,
+          6.6146697998046875
+        ]
+      ],
+      "thumbnail": "thumbnails/2-003.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-003-lite.ply",
+          "points": 15745,
+          "bytes": 236410
+        },
+        "high": {
+          "path": "models/2-003-high.ply",
+          "points": 135904,
+          "bytes": 2038796
+        }
+      }
+    },
+    {
+      "id": "2-004",
+      "group": "2",
+      "treeId": "2-004_Tree_0001",
+      "sourceFile": "2-004",
+      "x": 4.91,
+      "y": 11.82,
+      "height": 8.9,
+      "crownWidth": 5.54,
+      "crownLength": 7.7,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 28036,
+      "offset": [
+        5.2008514404296875,
+        11.804496765136719,
+        2.7440948486328125
+      ],
+      "bounds": [
+        [
+          -2.6936798095703125,
+          -2.9107131958007812,
+          0.0
+        ],
+        [
+          2.6936798095703125,
+          2.9107131958007812,
+          9.306221008300781
+        ]
+      ],
+      "thumbnail": "thumbnails/2-004.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-004-lite.ply",
+          "points": 28036,
+          "bytes": 420775
+        },
+        "high": {
+          "path": "models/2-004-high.ply",
+          "points": 28036,
+          "bytes": 420775
+        }
+      }
+    },
+    {
+      "id": "2-005",
+      "group": "2",
+      "treeId": "2-005_Tree_0001",
+      "sourceFile": "2-005",
+      "x": -91.19,
+      "y": 94.46,
+      "height": 5.85,
+      "crownWidth": 4.59,
+      "crownLength": 4.55,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.3,
+      "points": 106828,
+      "offset": [
+        -91.52922821044922,
+        94.48751831054688,
+        2.8217849731445312
+      ],
+      "bounds": [
+        [
+          -2.6260757446289062,
+          -2.1730270385742188,
+          0.0
+        ],
+        [
+          2.6260757446289062,
+          2.1730270385742188,
+          6.053619384765625
+        ]
+      ],
+      "thumbnail": "thumbnails/2-005.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-005-lite.ply",
+          "points": 19727,
+          "bytes": 296140
+        },
+        "high": {
+          "path": "models/2-005-high.ply",
+          "points": 106828,
+          "bytes": 1602656
+        }
+      }
+    },
+    {
+      "id": "2-006",
+      "group": "2",
+      "treeId": "2-006_Tree_0001",
+      "sourceFile": "2-006",
+      "x": -100.05,
+      "y": 101.49,
+      "height": 5.03,
+      "crownWidth": 3.73,
+      "crownLength": 3.73,
+      "dbh": 0.106,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.3,
+      "points": 109447,
+      "offset": [
+        -100.10621643066406,
+        101.28683471679688,
+        2.8647232055664062
+      ],
+      "bounds": [
+        [
+          -1.8384552001953125,
+          -2.1173095703125,
+          0.0
+        ],
+        [
+          1.8384552001953125,
+          2.1173095703125,
+          5.3904876708984375
+        ]
+      ],
+      "thumbnail": "thumbnails/2-006.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-006-lite.ply",
+          "points": 23692,
+          "bytes": 355615
+        },
+        "high": {
+          "path": "models/2-006-high.ply",
+          "points": 109447,
+          "bytes": 1641941
+        }
+      }
+    },
+    {
+      "id": "2-007",
+      "group": "2",
+      "treeId": "2-007_Tree_0001",
+      "sourceFile": "2-007",
+      "x": -114.98,
+      "y": 113.35,
+      "height": 6.97,
+      "crownWidth": 5.42,
+      "crownLength": 5.67,
+      "dbh": 0.138,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.3,
+      "points": 185604,
+      "offset": [
+        -115.13318634033203,
+        113.45349884033203,
+        3.0387115478515625
+      ],
+      "bounds": [
+        [
+          -2.6052169799804688,
+          -2.7078857421875,
+          0.0
+        ],
+        [
+          2.6052169799804688,
+          2.7078857421875,
+          7.31268310546875
+        ]
+      ],
+      "thumbnail": "thumbnails/2-007.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-007-lite.ply",
+          "points": 48359,
+          "bytes": 725620
+        },
+        "high": {
+          "path": "models/2-007-high.ply",
+          "points": 185604,
+          "bytes": 2784296
+        }
+      }
+    },
+    {
+      "id": "2-008",
+      "group": "2",
+      "treeId": "2-008_Tree_0001",
+      "sourceFile": "2-008",
+      "x": -98.04,
+      "y": 108.29,
+      "height": 8.27,
+      "crownWidth": 5.99,
+      "crownLength": 7.07,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 122823,
+      "offset": [
+        -97.68447875976562,
+        108.85963439941406,
+        4.0516510009765625
+      ],
+      "bounds": [
+        [
+          -2.98822021484375,
+          -3.2535934448242188,
+          0.0
+        ],
+        [
+          2.98822021484375,
+          3.2535858154296875,
+          8.757499694824219
+        ]
+      ],
+      "thumbnail": "thumbnails/2-008.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-008-lite.ply",
+          "points": 48905,
+          "bytes": 733810
+        },
+        "high": {
+          "path": "models/2-008-high.ply",
+          "points": 122823,
+          "bytes": 1842581
+        }
+      }
+    },
+    {
+      "id": "2-009",
+      "group": "2",
+      "treeId": "2-009_Tree_0001",
+      "sourceFile": "2-009",
+      "x": -114.74,
+      "y": 121.37,
+      "height": 8.0,
+      "crownWidth": 5.65,
+      "crownLength": 6.4,
+      "dbh": 0.18,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.6,
+      "points": 102013,
+      "offset": [
+        -113.41622161865234,
+        121.25035858154297,
+        4.204261779785156
+      ],
+      "bounds": [
+        [
+          -3.9099349975585938,
+          -2.6728668212890625,
+          0.0
+        ],
+        [
+          3.9099349975585938,
+          2.6728668212890625,
+          8.317733764648438
+        ]
+      ],
+      "thumbnail": "thumbnails/2-009.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-009-lite.ply",
+          "points": 41708,
+          "bytes": 625855
+        },
+        "high": {
+          "path": "models/2-009-high.ply",
+          "points": 102013,
+          "bytes": 1530431
+        }
+      }
+    },
+    {
+      "id": "2-010",
+      "group": "2",
+      "treeId": "2-010_Tree_0001",
+      "sourceFile": "2-010",
+      "x": -107.58,
+      "y": 122.73,
+      "height": 10.34,
+      "crownWidth": 7.99,
+      "crownLength": 7.24,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 3.1,
+      "points": 49729,
+      "offset": [
+        -106.91593170166016,
+        123.6948471069336,
+        5.8406219482421875
+      ],
+      "bounds": [
+        [
+          -3.8206710815429688,
+          -4.484703063964844,
+          0.0
+        ],
+        [
+          3.8206710815429688,
+          4.484703063964844,
+          10.655426025390625
+        ]
+      ],
+      "thumbnail": "thumbnails/2-010.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-010-lite.ply",
+          "points": 49729,
+          "bytes": 746170
+        },
+        "high": {
+          "path": "models/2-010-high.ply",
+          "points": 49729,
+          "bytes": 746170
+        }
+      }
+    },
+    {
+      "id": "2-011",
+      "group": "2",
+      "treeId": "2-011_Tree_0001",
+      "sourceFile": "2-011",
+      "x": -62.24,
+      "y": 79.11,
+      "height": 7.73,
+      "crownWidth": 9.35,
+      "crownLength": 7.03,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.7,
+      "points": 162117,
+      "offset": [
+        -61.07926940917969,
+        79.76559448242188,
+        5.4534912109375
+      ],
+      "bounds": [
+        [
+          -4.6786041259765625,
+          -5.00396728515625,
+          0.0
+        ],
+        [
+          4.6786041259765625,
+          5.00396728515625,
+          8.528297424316406
+        ]
+      ],
+      "thumbnail": "thumbnails/2-011.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-011-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/2-011-high.ply",
+          "points": 162117,
+          "bytes": 2431991
+        }
+      }
+    },
+    {
+      "id": "2-012",
+      "group": "2",
+      "treeId": "2-012_Tree_0001",
+      "sourceFile": "2-012",
+      "x": -81.37,
+      "y": 99.47,
+      "height": 7.43,
+      "crownWidth": 4.92,
+      "crownLength": 6.53,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 64820,
+      "offset": [
+        -80.68763732910156,
+        99.65638732910156,
+        5.11505126953125
+      ],
+      "bounds": [
+        [
+          -2.54840087890625,
+          -2.6576614379882812,
+          0.0
+        ],
+        [
+          2.54840087890625,
+          2.65765380859375,
+          8.108413696289062
+        ]
+      ],
+      "thumbnail": "thumbnails/2-012.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-012-lite.ply",
+          "points": 31124,
+          "bytes": 467095
+        },
+        "high": {
+          "path": "models/2-012-high.ply",
+          "points": 64820,
+          "bytes": 972535
+        }
+      }
+    },
+    {
+      "id": "2-013",
+      "group": "2",
+      "treeId": "2-013_Tree_0001",
+      "sourceFile": "2-013",
+      "x": -51.36,
+      "y": 61.95,
+      "height": 8.02,
+      "crownWidth": 6.57,
+      "crownLength": 6.92,
+      "dbh": 0.195,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.1,
+      "points": 165562,
+      "offset": [
+        -50.61592102050781,
+        62.219520568847656,
+        4.371490478515625
+      ],
+      "bounds": [
+        [
+          -3.8408660888671875,
+          -3.4154129028320312,
+          0.0
+        ],
+        [
+          3.8408660888671875,
+          3.4154129028320312,
+          8.343238830566406
+        ]
+      ],
+      "thumbnail": "thumbnails/2-013.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-013-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/2-013-high.ply",
+          "points": 165562,
+          "bytes": 2483666
+        }
+      }
+    },
+    {
+      "id": "2-014",
+      "group": "2",
+      "treeId": "2-014_Tree_0001",
+      "sourceFile": "2-014",
+      "x": -45.77,
+      "y": 59.78,
+      "height": 8.98,
+      "crownWidth": 5.84,
+      "crownLength": 8.48,
+      "dbh": 0.188,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.5,
+      "points": 68526,
+      "offset": [
+        -45.620819091796875,
+        60.080421447753906,
+        4.508384704589844
+      ],
+      "bounds": [
+        [
+          -2.75213623046875,
+          -3.2237625122070312,
+          0.0
+        ],
+        [
+          2.75213623046875,
+          3.2237625122070312,
+          9.319549560546875
+        ]
+      ],
+      "thumbnail": "thumbnails/2-014.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-014-lite.ply",
+          "points": 32940,
+          "bytes": 494335
+        },
+        "high": {
+          "path": "models/2-014-high.ply",
+          "points": 68526,
+          "bytes": 1028125
+        }
+      }
+    },
+    {
+      "id": "2-015",
+      "group": "2",
+      "treeId": "2-015_Tree_0001",
+      "sourceFile": "2-015",
+      "x": -88.2,
+      "y": 109.68,
+      "height": 7.28,
+      "crownWidth": 7.64,
+      "crownLength": 6.68,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.6,
+      "points": 67372,
+      "offset": [
+        -86.9782485961914,
+        109.88949584960938,
+        5.929656982421875
+      ],
+      "bounds": [
+        [
+          -3.8089828491210938,
+          -4.057655334472656,
+          0.0
+        ],
+        [
+          3.8089828491210938,
+          4.057655334472656,
+          8.208358764648438
+        ]
+      ],
+      "thumbnail": "thumbnails/2-015.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-015-lite.ply",
+          "points": 40180,
+          "bytes": 602935
+        },
+        "high": {
+          "path": "models/2-015-high.ply",
+          "points": 67372,
+          "bytes": 1010815
+        }
+      }
+    },
+    {
+      "id": "2-016",
+      "group": "2",
+      "treeId": "2-016_Tree_0001",
+      "sourceFile": "2-016",
+      "x": -46.36,
+      "y": 46.38,
+      "height": 5.43,
+      "crownWidth": 3.97,
+      "crownLength": 4.13,
+      "dbh": 0.105,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.3,
+      "points": 59027,
+      "offset": [
+        -46.4088134765625,
+        46.274085998535156,
+        2.3262557983398438
+      ],
+      "bounds": [
+        [
+          -1.860595703125,
+          -2.2237014770507812,
+          0.0
+        ],
+        [
+          1.860595703125,
+          2.2237014770507812,
+          5.541107177734375
+        ]
+      ],
+      "thumbnail": "thumbnails/2-016.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-016-lite.ply",
+          "points": 17545,
+          "bytes": 263410
+        },
+        "high": {
+          "path": "models/2-016-high.ply",
+          "points": 59027,
+          "bytes": 885640
+        }
+      }
+    },
+    {
+      "id": "2-017",
+      "group": "2",
+      "treeId": "2-017_Tree_0001",
+      "sourceFile": "2-017",
+      "x": -39.88,
+      "y": 42.04,
+      "height": 5.36,
+      "crownWidth": 4.19,
+      "crownLength": 4.16,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 82027,
+      "offset": [
+        -39.90919494628906,
+        41.692176818847656,
+        2.2271041870117188
+      ],
+      "bounds": [
+        [
+          -2.1745452880859375,
+          -2.1084518432617188,
+          0.0
+        ],
+        [
+          2.1745452880859375,
+          2.1084518432617188,
+          5.5713653564453125
+        ]
+      ],
+      "thumbnail": "thumbnails/2-017.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-017-lite.ply",
+          "points": 16946,
+          "bytes": 254425
+        },
+        "high": {
+          "path": "models/2-017-high.ply",
+          "points": 82027,
+          "bytes": 1230640
+        }
+      }
+    },
+    {
+      "id": "2-018",
+      "group": "2",
+      "treeId": "2-018_Tree_0001",
+      "sourceFile": "2-018",
+      "x": -34.44,
+      "y": 35.98,
+      "height": 5.22,
+      "crownWidth": 3.92,
+      "crownLength": 4.22,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.0,
+      "points": 45895,
+      "offset": [
+        -34.926849365234375,
+        35.854347229003906,
+        2.07452392578125
+      ],
+      "bounds": [
+        [
+          -2.1634521484375,
+          -2.2366104125976562,
+          0.0
+        ],
+        [
+          2.1634521484375,
+          2.2366104125976562,
+          5.39044189453125
+        ]
+      ],
+      "thumbnail": "thumbnails/2-018.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-018-lite.ply",
+          "points": 45895,
+          "bytes": 688660
+        },
+        "high": {
+          "path": "models/2-018-high.ply",
+          "points": 45895,
+          "bytes": 688660
+        }
+      }
+    },
+    {
+      "id": "2-019",
+      "group": "2",
+      "treeId": "2-019_Tree_0001",
+      "sourceFile": "2-019",
+      "x": -25.82,
+      "y": 26.66,
+      "height": 6.05,
+      "crownWidth": 4.27,
+      "crownLength": 4.25,
+      "dbh": 0.102,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.8,
+      "points": 74730,
+      "offset": [
+        -25.928619384765625,
+        26.547706604003906,
+        1.6033554077148438
+      ],
+      "bounds": [
+        [
+          -2.213104248046875,
+          -2.0576553344726562,
+          0.0
+        ],
+        [
+          2.213104248046875,
+          2.0576553344726562,
+          6.223136901855469
+        ]
+      ],
+      "thumbnail": "thumbnails/2-019.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-019-lite.ply",
+          "points": 16967,
+          "bytes": 254740
+        },
+        "high": {
+          "path": "models/2-019-high.ply",
+          "points": 74730,
+          "bytes": 1121185
+        }
+      }
+    },
+    {
+      "id": "2-020",
+      "group": "2",
+      "treeId": "2-020_Tree_0001",
+      "sourceFile": "2-020",
+      "x": -16.06,
+      "y": 15.86,
+      "height": 5.11,
+      "crownWidth": 3.79,
+      "crownLength": 3.91,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 165808,
+      "offset": [
+        -15.945266723632812,
+        15.639785766601562,
+        0.1965789794921875
+      ],
+      "bounds": [
+        [
+          -2.0289764404296875,
+          -2.116546630859375,
+          0.0
+        ],
+        [
+          2.0289764404296875,
+          2.116546630859375,
+          5.7741851806640625
+        ]
+      ],
+      "thumbnail": "thumbnails/2-020.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-020-lite.ply",
+          "points": 23825,
+          "bytes": 357610
+        },
+        "high": {
+          "path": "models/2-020-high.ply",
+          "points": 165808,
+          "bytes": 2487356
+        }
+      }
+    },
+    {
+      "id": "2-021",
+      "group": "2",
+      "treeId": "2-021_Tree_0001",
+      "sourceFile": "2-021",
+      "x": -108.23,
+      "y": 109.07,
+      "height": 8.15,
+      "crownWidth": 6.2,
+      "crownLength": 6.25,
+      "dbh": 0.24,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.9,
+      "points": 159418,
+      "offset": [
+        -107.86358642578125,
+        107.7239990234375,
+        2.99151611328125
+      ],
+      "bounds": [
+        [
+          -3.323974609375,
+          -4.554832458496094,
+          0.0
+        ],
+        [
+          3.323974609375,
+          4.554840087890625,
+          8.620399475097656
+        ]
+      ],
+      "thumbnail": "thumbnails/2-021.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-021-lite.ply",
+          "points": 42433,
+          "bytes": 636730
+        },
+        "high": {
+          "path": "models/2-021-high.ply",
+          "points": 159418,
+          "bytes": 2391506
+        }
+      }
+    },
+    {
+      "id": "2-022",
+      "group": "2",
+      "treeId": "2-022_Tree_0001",
+      "sourceFile": "2-022",
+      "x": -106.29,
+      "y": 104.9,
+      "height": 5.3,
+      "crownWidth": 4.74,
+      "crownLength": 3.7,
+      "dbh": 0.133,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.6,
+      "points": 73321,
+      "offset": [
+        -106.53083038330078,
+        104.92559814453125,
+        2.8600540161132812
+      ],
+      "bounds": [
+        [
+          -2.4017410278320312,
+          -2.50506591796875,
+          0.0
+        ],
+        [
+          2.4017410278320312,
+          2.5050735473632812,
+          5.533027648925781
+        ]
+      ],
+      "thumbnail": "thumbnails/2-022.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-022-lite.ply",
+          "points": 15436,
+          "bytes": 231775
+        },
+        "high": {
+          "path": "models/2-022-high.ply",
+          "points": 73321,
+          "bytes": 1100050
+        }
+      }
+    },
+    {
+      "id": "2-023",
+      "group": "2",
+      "treeId": "2-023_Tree_0001",
+      "sourceFile": "2-023",
+      "x": -12.71,
+      "y": 12.86,
+      "height": 6.59,
+      "crownWidth": 6.32,
+      "crownLength": 5.69,
+      "dbh": 0.243,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.9,
+      "points": 301608,
+      "offset": [
+        -13.377243041992188,
+        12.543937683105469,
+        0.00913238525390625
+      ],
+      "bounds": [
+        [
+          -3.5274200439453125,
+          -3.5915756225585938,
+          0.0
+        ],
+        [
+          3.5274200439453125,
+          3.5915756225585938,
+          7.178504943847656
+        ]
+      ],
+      "thumbnail": "thumbnails/2-023.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-023-lite.ply",
+          "points": 38364,
+          "bytes": 575695
+        },
+        "high": {
+          "path": "models/2-023-high.ply",
+          "points": 88919,
+          "bytes": 1334020
+        }
+      }
+    },
+    {
+      "id": "2-024",
+      "group": "2",
+      "treeId": "2-024_Tree_0001",
+      "sourceFile": "2-024",
+      "x": -2.97,
+      "y": 10.41,
+      "height": 7.19,
+      "crownWidth": 4.56,
+      "crownLength": 6.09,
+      "dbh": 0.195,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.1,
+      "points": 80374,
+      "offset": [
+        -2.6156463623046875,
+        10.340415954589844,
+        0.7856292724609375
+      ],
+      "bounds": [
+        [
+          -2.4753265380859375,
+          -2.2564163208007812,
+          0.0
+        ],
+        [
+          2.4753265380859375,
+          2.2564163208007812,
+          7.3857879638671875
+        ]
+      ],
+      "thumbnail": "thumbnails/2-024.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-024-lite.ply",
+          "points": 28223,
+          "bytes": 423580
+        },
+        "high": {
+          "path": "models/2-024-high.ply",
+          "points": 80374,
+          "bytes": 1205845
+        }
+      }
+    },
+    {
+      "id": "2-025",
+      "group": "2",
+      "treeId": "2-025_Tree_0001",
+      "sourceFile": "2-025",
+      "x": -4.45,
+      "y": 13.74,
+      "height": 7.52,
+      "crownWidth": 6.2,
+      "crownLength": 6.32,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 1.2,
+      "points": 143174,
+      "offset": [
+        -7.811859130859375,
+        14.006484985351562,
+        1.1845321655273438
+      ],
+      "bounds": [
+        [
+          -7.131500244140625,
+          -3.32147216796875,
+          0.0
+        ],
+        [
+          7.131500244140625,
+          3.32147216796875,
+          8.251396179199219
+        ]
+      ],
+      "thumbnail": "thumbnails/2-025.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-025-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/2-025-high.ply",
+          "points": 143174,
+          "bytes": 2147846
+        }
+      }
+    },
+    {
+      "id": "2-026",
+      "group": "2",
+      "treeId": "2-026_Tree_0001",
+      "sourceFile": "2-026",
+      "x": -77.08,
+      "y": 96.19,
+      "height": 11.2,
+      "crownWidth": 6.89,
+      "crownLength": 9.7,
+      "dbh": 0.19,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.5,
+      "points": 49559,
+      "offset": [
+        -76.18978881835938,
+        96.67189025878906,
+        5.769218444824219
+      ],
+      "bounds": [
+        [
+          -3.73565673828125,
+          -3.6269073486328125,
+          0.0
+        ],
+        [
+          3.73565673828125,
+          3.6269073486328125,
+          11.485343933105469
+        ]
+      ],
+      "thumbnail": "thumbnails/2-026.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-026-lite.ply",
+          "points": 49559,
+          "bytes": 743620
+        },
+        "high": {
+          "path": "models/2-026-high.ply",
+          "points": 49559,
+          "bytes": 743620
+        }
+      }
+    },
+    {
+      "id": "2-027",
+      "group": "2",
+      "treeId": "2-027_Tree_0001",
+      "sourceFile": "2-027",
+      "x": -73.38,
+      "y": 91.77,
+      "height": 11.83,
+      "crownWidth": 10.57,
+      "crownLength": 10.33,
+      "dbh": 0.458,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.5,
+      "points": 138675,
+      "offset": [
+        -72.37019348144531,
+        93.41561126708984,
+        6.698219299316406
+      ],
+      "bounds": [
+        [
+          -5.2033538818359375,
+          -6.019020080566406,
+          0.0
+        ],
+        [
+          5.2033538818359375,
+          6.019020080566406,
+          12.374229431152344
+        ]
+      ],
+      "thumbnail": "thumbnails/2-027.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-027-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/2-027-high.ply",
+          "points": 138675,
+          "bytes": 2080361
+        }
+      }
+    },
+    {
+      "id": "2-028",
+      "group": "2",
+      "treeId": "2-028_Tree_0001",
+      "sourceFile": "2-028",
+      "x": -20.12,
+      "y": 34.43,
+      "height": 7.81,
+      "crownWidth": 5.19,
+      "crownLength": 7.11,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.7,
+      "points": 47095,
+      "offset": [
+        -19.701095581054688,
+        34.46351623535156,
+        3.286895751953125
+      ],
+      "bounds": [
+        [
+          -2.9935760498046875,
+          -2.8555908203125,
+          0.0
+        ],
+        [
+          2.9935760498046875,
+          2.8555908203125,
+          8.07281494140625
+        ]
+      ],
+      "thumbnail": "thumbnails/2-028.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-028-lite.ply",
+          "points": 47095,
+          "bytes": 706660
+        },
+        "high": {
+          "path": "models/2-028-high.ply",
+          "points": 47095,
+          "bytes": 706660
+        }
+      }
+    },
+    {
+      "id": "2-029",
+      "group": "2",
+      "treeId": "2-029_Tree_0001",
+      "sourceFile": "2-029",
+      "x": -24.51,
+      "y": 34.9,
+      "height": 8.52,
+      "crownWidth": 6.56,
+      "crownLength": 7.82,
+      "dbh": 0.196,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.7,
+      "points": 108929,
+      "offset": [
+        -23.630050659179688,
+        34.608551025390625,
+        3.029541015625
+      ],
+      "bounds": [
+        [
+          -3.7015838623046875,
+          -3.394256591796875,
+          0.0
+        ],
+        [
+          3.7015838623046875,
+          3.394256591796875,
+          8.775520324707031
+        ]
+      ],
+      "thumbnail": "thumbnails/2-029.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-029-lite.ply",
+          "points": 37568,
+          "bytes": 563755
+        },
+        "high": {
+          "path": "models/2-029-high.ply",
+          "points": 108929,
+          "bytes": 1634171
+        }
+      }
+    },
+    {
+      "id": "2-030",
+      "group": "2",
+      "treeId": "2-030_Tree_0001",
+      "sourceFile": "2-030",
+      "x": -18.03,
+      "y": 31.94,
+      "height": 24.81,
+      "crownWidth": 23.56,
+      "crownLength": 23.91,
+      "dbh": 0.211,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.9,
+      "points": 26483,
+      "offset": [
+        -55.7188720703125,
+        85.28329467773438,
+        2.6063003540039062
+      ],
+      "bounds": [
+        [
+          -43.94775390625,
+          -56.449493408203125,
+          0.0
+        ],
+        [
+          43.94775390625,
+          56.449493408203125,
+          25.1783447265625
+        ]
+      ],
+      "thumbnail": "thumbnails/2-030.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-030-lite.ply",
+          "points": 26483,
+          "bytes": 397480
+        },
+        "high": {
+          "path": "models/2-030-high.ply",
+          "points": 26483,
+          "bytes": 397480
+        }
+      }
+    },
+    {
+      "id": "2-031",
+      "group": "2",
+      "treeId": "2-031_Tree_0001",
+      "sourceFile": "2-031",
+      "x": -13.94,
+      "y": 26.94,
+      "height": 9.36,
+      "crownWidth": 7.81,
+      "crownLength": 8.26,
+      "dbh": 0.222,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.1,
+      "points": 88767,
+      "offset": [
+        -13.755264282226562,
+        28.313201904296875,
+        1.9402618408203125
+      ],
+      "bounds": [
+        [
+          -3.8855133056640625,
+          -4.475372314453125,
+          0.0
+        ],
+        [
+          3.8855133056640625,
+          4.475372314453125,
+          9.779716491699219
+        ]
+      ],
+      "thumbnail": "thumbnails/2-031.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-031-lite.ply",
+          "points": 42225,
+          "bytes": 633610
+        },
+        "high": {
+          "path": "models/2-031-high.ply",
+          "points": 88767,
+          "bytes": 1331740
+        }
+      }
+    },
+    {
+      "id": "2-032",
+      "group": "2",
+      "treeId": "2-032_Tree_0001",
+      "sourceFile": "2-032",
+      "x": -19.68,
+      "y": 27.89,
+      "height": 9.09,
+      "crownWidth": 6.65,
+      "crownLength": 7.99,
+      "dbh": 0.188,
+      "dbhReliable": true,
+      "trunkTopHeight": 1.1,
+      "points": 154389,
+      "offset": [
+        -19.468246459960938,
+        28.244972229003906,
+        1.2685394287109375
+      ],
+      "bounds": [
+        [
+          -3.3010406494140625,
+          -3.8322067260742188,
+          0.0
+        ],
+        [
+          3.3010406494140625,
+          3.8322067260742188,
+          9.789047241210938
+        ]
+      ],
+      "thumbnail": "thumbnails/2-032.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-032-lite.ply",
+          "points": 49996,
+          "bytes": 750175
+        },
+        "high": {
+          "path": "models/2-032-high.ply",
+          "points": 154389,
+          "bytes": 2316071
+        }
+      }
+    },
+    {
+      "id": "2-033",
+      "group": "2",
+      "treeId": "2-033_Tree_0001",
+      "sourceFile": "2-033",
+      "x": -26.16,
+      "y": 40.18,
+      "height": 8.4,
+      "crownWidth": 7.16,
+      "crownLength": 7.5,
+      "dbh": 0.221,
+      "dbhReliable": true,
+      "trunkTopHeight": 0.9,
+      "points": 134921,
+      "offset": [
+        -25.50286865234375,
+        40.691925048828125,
+        3.2895278930664062
+      ],
+      "bounds": [
+        [
+          -3.526824951171875,
+          -3.7461090087890625,
+          0.0
+        ],
+        [
+          3.526824951171875,
+          3.7461090087890625,
+          9.108009338378906
+        ]
+      ],
+      "thumbnail": "thumbnails/2-033.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-033-lite.ply",
+          "points": 49997,
+          "bytes": 750190
+        },
+        "high": {
+          "path": "models/2-033-high.ply",
+          "points": 134921,
+          "bytes": 2024051
+        }
+      }
+    },
+    {
+      "id": "2-034",
+      "group": "2",
+      "treeId": "2-034_Tree_0001",
+      "sourceFile": "2-034",
+      "x": -56.08,
+      "y": 70.08,
+      "height": 7.64,
+      "crownWidth": 6.83,
+      "crownLength": 6.84,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.8,
+      "points": 130826,
+      "offset": [
+        -55.11799621582031,
+        70.36796569824219,
+        3.9232940673828125
+      ],
+      "bounds": [
+        [
+          -3.4072418212890625,
+          -3.421417236328125,
+          0.0
+        ],
+        [
+          3.4072418212890625,
+          3.421417236328125,
+          8.897407531738281
+        ]
+      ],
+      "thumbnail": "thumbnails/2-034.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-034-lite.ply",
+          "points": 49998,
+          "bytes": 750205
+        },
+        "high": {
+          "path": "models/2-034-high.ply",
+          "points": 130826,
+          "bytes": 1962626
+        }
+      }
+    },
+    {
+      "id": "2-035",
+      "group": "2",
+      "treeId": "2-035_Tree_0001",
+      "sourceFile": "2-035",
+      "x": -53.13,
+      "y": 66.18,
+      "height": 7.0,
+      "crownWidth": 7.13,
+      "crownLength": 6.1,
+      "dbh": null,
+      "dbhReliable": false,
+      "trunkTopHeight": 0.9,
+      "points": 82140,
+      "offset": [
+        -52.05433654785156,
+        67.45170593261719,
+        4.6239166259765625
+      ],
+      "bounds": [
+        [
+          -4.0949554443359375,
+          -3.7635650634765625,
+          0.0
+        ],
+        [
+          4.0949554443359375,
+          3.7635650634765625,
+          7.2935638427734375
+        ]
+      ],
+      "thumbnail": "thumbnails/2-035.webp",
+      "models": {
+        "lite": {
+          "path": "models/2-035-lite.ply",
+          "points": 38696,
+          "bytes": 580675
+        },
+        "high": {
+          "path": "models/2-035-high.ply",
+          "points": 82140,
+          "bytes": 1232335
+        }
+      }
+    }
+  ]
+}

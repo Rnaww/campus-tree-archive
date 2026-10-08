@@ -1,0 +1,26 @@
+{
+  "name": "campus-tree-platform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "data:generate": "python3 scripts/prepare_data.py",
+    "data:validate": "python3 scripts/validate_data.py",
+    "test": "playwright test",
+    "package:offline": "python3 scripts/package_offline.py"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/pngjs": "^6.0.5",
+    "@types/three": "^0.186.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "trees": 68,
+  "groups": {
+    "1": 33,
+    "2": 35
+  },
+  "originalPoints": 17346793,
+  "reliableDBH": 26,
+  "missingDBH": 42,
+  "sourceSha256": "6f75b3804cb1e33792a48d1699a0519fcdd7aebd7b03089d242e75de7a6ac420",
+  "oldComparisonAvailable": true,
+  "changedRows": 67,
+  "differences": [
+    {
+      "id": "1-002",
+      "field": "DBH_Avg(m)",
+      "old": "0.874",
+      "authoritative": "0.793"
+    },
+    {
+      "id": "1-003",
+      "field": "DBH_Avg(m)",
+      "old": "0.226",
+      "authoritative": ""
+    },
+    {
+      "id": "1-004",
+      "field": "DBH_Avg(m)",
+      "old": "1.604",
+      "authoritative": ""
+    },
+    {
+      "id": "1-005",
+      "field": "DBH_Avg(m)",
+      "old": "1.201",
+      "authoritative": ""
+    },
+    {
+      "id": "1-006",
+      "field": "DBH_Avg(m)",
+      "old": "1.252",
+      "authoritative": ""
+    },
+    {
+      "id": "1-007",
+      "field": "DBH_Avg(m)",
+      "old": "0.284",
+      "authoritative": ""
+    },
+    {
+      "id": "1-008",
+      "field": "DBH_Avg(m)",
+      "old": "0.473",
+      "authoritative": ""
+    },
+    {
+      "id": "1-009",
+      "field": "DBH_Avg(m)",
+      "old": "0.0",
+      "authoritative": ""
+    },
+    {
+      "id": "1-010",
+      "field": "DBH_Avg(m)",
+      "old": "0.615",
+      "authoritative": ""
+    },
+    {
+      "id": "1-011",
+      "field": "DBH_Avg(m)",
+      "old": "0.868",
+      "authoritative": "0.21"
+    },
+    {
+      "id": "1-012",
+      "field": "DBH_Avg(m)",
+      "old": "0.818",
+      "authoritative": ""
+    },
+    {
+      "id": "1-013",
+      "field": "DBH_Avg(m)",
+      "old": "1.322",
+      "authoritative": ""
+    },
+    {
+      "id": "1-014",
+      "field": "DBH_Avg(m)",
+      "old": "0.536",
+      "authoritative": ""
+    },
+    {
+      "id": "1-015",
+      "field": "DBH_Avg(m)",
+      "old": "1.573",
+      "authoritative": ""
+    },
+    {
+      "id": "1-016",
+      "field": "DBH_Avg(m)",
+      "old": "0.559",
+      "authoritative": ""
+    },
+    {
+      "id": "1-017",
+      "field": "DBH_Avg(m)",
+      "old": "0.466",
+      "authoritative": ""
+    },
+    {
+      "id": "1-018",
+      "field": "DBH_Avg(m)",
+      "old": "1.043",
+      "authoritative": ""
+    },
+    {
+      "id": "1-019",
+      "field": "DBH_Avg(m)",
+      "old": "0.284",
+      "authoritative": "0.287"
+    },
+    {
+      "id": "1-020",
+      "field": "DBH_Avg(m)",
+      "old": "0.342",
+      "authoritative": ""
+    },
+    {
+      "id": "1-021",
+      "field": "DBH_Avg(m)",
+      "old": "1.306",
+      "authoritative": ""
+    },
+    {
+      "id": "1-022",
+      "field": "DBH_Avg(m)",
+      "old": "0.539",
+      "authoritative": ""
+    },
+    {
+      "id": "1-023",
+      "field": "DBH_Avg(m)",
+      "old": "0.298",
+      "authoritative": ""
+    },
+    {
+      "id": "1-024",
+      "field": "DBH_Avg(m)",
+      "old": "0.319",
+      "authoritative": ""
+    },
+    {
+      "id": "1-025",
+      "field": "DBH_Avg(m)",
+      "old": "0.323",
+      "authoritative": ""
+    },
+    {
+      "id": "1-026",
+      "field": "DBH_Avg(m)",
+      "old": "0.638",
+      "authoritative": ""
+    },
+    {
+      "id": "1-027",
+      "field": "DBH_Avg(m)",
+      "old": "0.261",
+      "authoritative": ""
+    },
+    {
+      "id": "1-028",
+      "field": "DBH_Avg(m)",
+      "old": "0.368",
+      "authoritative": ""
+    },
+    {
+      "id": "1-029",
+      "field": "DBH_Avg(m)",
+      "old": "0.363",
+      "authoritative": ""
+    },
+    {
+      "id": "1-030",
+      "field": "DBH_Avg(m)",
+      "old": "0.761",
+      "authoritative": ""
+    },
+    {
+      "id": "1-031",
+      "field": "DBH_Avg(m)",
+      "old": "0.679",
+      "authoritative": "0.291"
+    },
+    {
+      "id": "1-032",
+      "field": "DBH_Avg(m)",
+      "old": "0.318",
+      "authoritative": ""
+    },
+    {
+      "id": "1-033",
+      "field": "DBH_Avg(m)",
+      "old": "0.255",
+      "authoritative": ""
+    },
+    {
+      "id": "2-001",
+      "field": "DBH_Avg(m)",
+      "old": "0.378",
+      "authoritative": "0.386"
+    },
+    {
+      "id": "2-002",
+      "field": "DBH_Avg(m)",
+      "old": "0.156",
+      "authoritative": "0.144"
+    },
+    {
+      "id": "2-003",
+      "field": "DBH_Avg(m)",
+      "old": "0.094",
+      "authoritative": "0.118"
+    },
+    {
+      "id": "2-004",
+      "field": "DBH_Avg(m)",
+      "old": "0.239",
+      "authoritative": ""
+    },
+    {
+      "id": "2-005",
+      "field": "DBH_Avg(m)",
+      "old": "0.576",
+      "authoritative": ""
+    },
+    {
+      "id": "2-006",
+      "field": "DBH_Avg(m)",
+      "old": "0.499",
+      "authoritative": "0.106"
+    },
+    {
+      "id": "2-007",
+      "field": "DBH_Avg(m)",
+      "old": "0.774",
+      "authoritative": "0.138"
+    },
+    {
+      "id": "2-008",
+      "field": "DBH_Avg(m)",
+      "old": "0.532",
+      "authoritative": ""
+    },
+    {
+      "id": "2-009",
+      "field": "DBH_Avg(m)",
+      "old": "0.177",
+      "authoritative": "0.18"
+    },
+    {
+      "id": "2-010",
+      "field": "DBH_Avg(m)",
+      "old": "1.141",
+      "authoritative": ""
+    },
+    {
+      "id": "2-011",
+      "field": "DBH_Avg(m)",
+      "old": "0.369",
+      "authoritative": ""
+    },
+    {
+      "id": "2-012",
+      "field": "DBH_Avg(m)",
+      "old": "0.495",
+      "authoritative": ""
+    },
+    {
+      "id": "2-013",
+      "field": "DBH_Avg(m)",
+      "old": "0.2",
+      "authoritative": "0.195"
+    },
+    {
+      "id": "2-014",
+      "field": "DBH_Avg(m)",
+      "old": "0.276",
+      "authoritative": "0.188"
+    },
+    {
+      "id": "2-015",
+      "field": "DBH_Avg(m)",
+      "old": "0.239",
+      "authoritative": ""
+    },
+    {
+      "id": "2-016",
+      "field": "DBH_Avg(m)",
+      "old": "0.351",
+      "authoritative": "0.105"
+    },
+    {
+      "id": "2-017",
+      "field": "DBH_Avg(m)",
+      "old": "0.154",
+      "authoritative": ""
+    },
+    {
+      "id": "2-018",
+      "field": "DBH_Avg(m)",
+      "old": "0.39",
+      "authoritative": ""
+    },
+    {
+      "id": "2-019",
+      "field": "DBH_Avg(m)",
+      "old": "0.145",
+      "authoritative": "0.102"
+    },
+    {
+      "id": "2-020",
+      "field": "DBH_Avg(m)",
+      "old": "0.388",
+      "authoritative": ""
+    },
+    {
+      "id": "2-021",
+      "field": "DBH_Avg(m)",
+      "old": "1.512",
+      "authoritative": "0.24"
+    },
+    {
+      "id": "2-022",
+      "field": "DBH_Avg(m)",
+      "old": "0.153",
+      "authoritative": "0.133"
+    },
+    {
+      "id": "2-023",
+      "field": "DBH_Avg(m)",
+      "old": "0.287",
+      "authoritative": "0.243"
+    },
+    {
+      "id": "2-024",
+      "field": "DBH_Avg(m)",
+      "old": "0.222",
+      "authoritative": "0.195"
+    },
+    {
+      "id": "2-025",
+      "field": "DBH_Avg(m)",
+      "old": "0.222",
+      "authoritative": ""
+    },
+    {
+      "id": "2-026",
+      "field": "DBH_Avg(m)",
+      "old": "0.241",
+      "authoritative": "0.19"
+    },
+    {
+      "id": "2-027",
+      "field": "DBH_Avg(m)",
+      "old": "0.443",
+      "authoritative": "0.458"
+    },
+    {
+      "id": "2-028",
+      "field": "DBH_Avg(m)",
+      "old": "0.514",
+      "authoritative": ""
+    },
+    {
+      "id": "2-029",
+      "field": "DBH_Avg(m)",
+      "old": "0.241",
+      "authoritative": "0.196"
+    },
+    {
+      "id": "2-030",
+      "field": "DBH_Avg(m)",
+      "old": "0.355",
+      "authoritative": "0.211"
+    },
+    {
+      "id": "2-031",
+      "field": "DBH_Avg(m)",
+      "old": "0.218",
+      "authoritative": "0.222"
+    },
+    {
+      "id": "2-032",
+      "field": "DBH_Avg(m)",
+      "old": "0.171",
+      "authoritative": "0.188"
+    },
+    {
+      "id": "2-033",
+      "field": "DBH_Avg(m)",
+      "old": "0.252",
+      "authoritative": "0.221"
+    },
+    {
+      "id": "2-034",
+      "field": "DBH_Avg(m)",
+      "old": "0.898",
+      "authoritative": ""
+    },
+    {
+      "id": "2-035",
+      "field": "DBH_Avg(m)",
+      "old": "1.727",
+      "authoritative": ""
+    }
+  ]
+}
